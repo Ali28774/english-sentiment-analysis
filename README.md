@@ -1,4 +1,4 @@
-# english-sentiment-analysis
+# Sentiment-Analysis
 
 • "This project was developed to determine whether user comments contain positive or negative sentiment."
 • "It aims to conduct emotional analysis of text using machine learning and natural language processing techniques."
